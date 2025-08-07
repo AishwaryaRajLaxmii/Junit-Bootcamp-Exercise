@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
 @RunWith(MockitoJUnitRunner.class)
 public class TestServiceTest {
     @InjectMocks
-    TestService testService;
+    main.java.com.demo.service.TestService testService;
 
     @Test
     public void testFirstMethod() {
